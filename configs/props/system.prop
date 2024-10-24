@@ -77,3 +77,10 @@ ro.lmk.use_psi=true
 
 # Disable Skia tracing by default
 debug.hwui.skia_tracing_enabled=false
+
+# AboutPhone Info
+ro.infinity.soc=Snapdragron 678
+ro.infinity.battery=5000mAh
+ro.infinity.display=1080 x 2400, 60Hz
+ro.infinity.camera=48 MP + 8 MP + 2 MP + 2 MP
+
